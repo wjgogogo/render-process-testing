@@ -1,0 +1,24 @@
+{
+  "name": "render-process-testing",
+  "version": "0.0.1",
+  "description": "simulate delay for css and js files, test the whole of render process",
+  "private": true,
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  },
+  "keywords": [],
+  "author": "bacteria369 <906626481@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^9.4.0",
+    "koa": "^2.13.0",
+    "koa-send": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.11.6",
+    "@types/koa-send": "^4.1.2",
+    "@types/koa__router": "^8.0.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
