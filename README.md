@@ -4,13 +4,13 @@ Sample project to test browser rendering process
 
 ## Usage
 
-install dependecies and start the server
+* install dependecies and start the server
 
 ```bash
 npm install && npm start
 ```
 
-access the html entry file format:
+* access the html entry file format:
 
 ```
 http://localhost:8000/file-name.html
@@ -22,7 +22,7 @@ for example:
 http://localhost:8000/load-image.html
 ```
 
-access the other file format:
+* access the other file format:
 
 ```
 http://localhost:8000/dir/file-name.ext
